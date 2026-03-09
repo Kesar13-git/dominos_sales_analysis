@@ -32,7 +32,7 @@ The analysis was performed using SQL for data extraction and Power BI for dashbo
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard_page1.png)
+![Dashboard](dashboard_page1.png)
 
 ## Dataset
 The dataset was sourced from Kaggle and contains order-level sales transactions.
