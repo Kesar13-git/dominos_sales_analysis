@@ -51,6 +51,8 @@ The objective is not just to visualize data, but to derive actionable insights t
 ## 📊 Dashboard Preview
 ![Dashboard](dashboard_page1.png)
 
+![Dashboard](dashboard_page2.png)
+
 ---
 
 ## 📂 Dataset
