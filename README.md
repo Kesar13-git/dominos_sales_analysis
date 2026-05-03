@@ -1,42 +1,62 @@
-# Domino's Pizza Sales Analysis
+# 🍕 Domino’s Sales Analysis: Revenue Optimization & Demand Insights
 
-## Project Overview
-This project analyzes Domino's pizza sales data to uncover key business insights related to revenue, order trends, and product performance.
+## 📌 Project Overview
+This project analyzes Domino’s pizza sales data to identify key revenue drivers, understand customer demand patterns, and uncover opportunities to improve business performance.
 
-The analysis was performed using SQL for data extraction and Power BI for dashboard visualization.
+The objective is not just to visualize data, but to derive actionable insights that can support strategic decision-making.
 
-## Tools Used
-- SQL Server
-- Power BI
-- Excel
-- Kaggle Dataset
+---
 
-## Business Questions Answered
-- What are the best-selling pizzas?
-- Which days generate the highest sales?
-- What pizza categories contribute the most revenue?
-- What are the worst-performing pizzas?
+## 🛠 Tools & Technologies
+- SQL Server (Data analysis)
+- Power BI (Dashboard visualization)
+- Excel (Data source)
 
-## Key Insights
-• Total Revenue: $817K+  
-• Peak Sales Days: Thursday, Friday, Saturday  
-• Classic Category contributes the highest sales  
-• Large-size pizzas generate maximum revenue  
+---
 
-## Dashboard Features
-- KPI Cards (Revenue, Orders, AOV)
-- Sales Trends by Day
-- Sales by Pizza Category
-- Top & Bottom Performing Pizzas
-- Interactive slicers
+## 📊 Key Business Questions
+- Which pizza categories and sizes drive the most revenue?
+- Are top-selling pizzas also the most profitable?
+- How do sales vary across days and time periods?
+- What factors contribute to peak and low-demand periods?
 
-## Dashboard Preview
+---
 
+## 📈 Key Insights
+- Sales peak during lunch hours (12–1 PM), indicating strong demand during this period  
+- Evening hours show high order volume but lower average order value, suggesting upselling opportunities  
+- Large-size pizzas contribute the highest revenue, showing customer preference for larger orders  
+- Sales increase towards the end of the week, peaking on Friday, indicating weekend-driven demand  
+- A few pizzas dominate revenue, indicating dependency on top-performing products  
+
+---
+
+## 💡 Business Recommendations
+- Introduce combo offers during evening hours to increase average order value  
+- Launch promotions on low-demand days (e.g., Sunday) to improve consistency  
+- Promote mid-performing pizzas to reduce dependency on top products  
+- Focus marketing campaigns around peak demand hours to maximize revenue  
+
+---
+
+## 📊 Dashboard Features
+- KPI Cards (Revenue, Orders, Average Order Value)
+- Sales trends by day and hour
+- Revenue by pizza category and size
+- Top & bottom performing pizzas
+- Interactive filters for dynamic analysis  
+
+---
+
+## 📊 Dashboard Preview
 ![Dashboard](dashboard_page1.png)
 
-## Dataset
-The dataset was sourced from Kaggle and contains order-level sales transactions.
+---
 
-## Author
+## 📂 Dataset
+The dataset was sourced from Kaggle and contains order-level transaction data.
+
+---
+
+## 👤 Author
 Kesar Deaulkar
-
